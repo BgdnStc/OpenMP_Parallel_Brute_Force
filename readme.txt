@@ -1,3 +1,5 @@
+C++ password brute-force in sequential approach and in parallel multi-threading execution using OpenMP.
+
 Target SHA1 hash: 00c3cc7c9d684decd98721deaa0729d73faa9d9b
 Prefix salt added: parallel
 
